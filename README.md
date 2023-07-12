@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Freezing-spark
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python and java and javascipt
-- 📫 How to reach me I don't know🤣
+- 🌱 I’m currently learning C# and unity
+- 📫 coming soon
 
 <!---
 Freezing-spark/Freezing-spark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
