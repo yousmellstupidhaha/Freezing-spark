@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Survivdev1
+- 👋 Hi, I’m Blue
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C# and unity
+- 🌱 I’m currently learning Typescript and C++
 - 📫 coming soon
 
 <!---
